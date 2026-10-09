@@ -1,0 +1,7 @@
+type,param1,param2,param3,description
+faculty_subject_pref,F1,T31,,F1 (Dr. Sharma) should teach Data Structures (T31)
+faculty_subject_pref,F6,T51,,F6 should teach Machine Learning (T51)
+max_consecutive_theory,SEM3,2,,SEM3 should not have more than 2 consecutive theory sessions
+faculty_daily_load_cap,F1,4,,F1 should not teach more than 4 sessions in a single day
+faculty_weekly_load_cap,F1,10,,F1 should not teach more than 10 sessions total in the week
+no_gap_section,SEM5,,,SEM5 timetable should have no idle gaps between classes
